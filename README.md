@@ -14,7 +14,7 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   
-  <img align="right" alt="img" height="250" src=""/>
+  <img align="right" alt="img" height="250" src="http://pa1.narvii.com/6278/40c83b943537c9119d4c4330a8a5a308d58751ef_00.gif"/>
           
 </div>
 
@@ -26,4 +26,3 @@
   </a>
 </div>
 
-![snake gif](https://github.com/MontesLucas/MontesLucas807/blob/output/github-contribution-grid-snake.svg)
