@@ -24,5 +24,7 @@
   <a href="https://instagram.com/montes_lucas02?igshid=YmMyMTA2M2Y=">
   <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
   </a>
+  
+  ![Snake animation](https://github.com/rogergabrielsantos/rogergabrielsantos/blob/output/github-contribution-grid-snake.svg)
 </div>
 
