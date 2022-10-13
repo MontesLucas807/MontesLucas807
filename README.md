@@ -14,16 +14,16 @@
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
   
-  <img align="right" alt="img" height="250" src="https://media2.giphy.com/media/j4fbBhYgu8mNEHkQ4w/giphy.gif"/>
+  <img align="right" alt="img" height="250" src=""/>
           
 </div>
 
 ## Contatos
 
 <div style="display: inline_block"><br>
-<a href="https://instagram.com/montes_lucas02?igshid=YmMyMTA2M2Y="> Insta</a>
- 
-  
+  <a href="https://instagram.com/montes_lucas02?igshid=YmMyMTA2M2Y=">
+  <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/>
+  </a>
 </div>
 
 ![snake gif](https://github.com/MontesLucas/MontesLucas807/blob/output/github-contribution-grid-snake.svg)
